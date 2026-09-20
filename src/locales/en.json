@@ -6,7 +6,14 @@
     "description": "Your ultimate guide to Wash The Skyscraper on Roblox! Explore active codes, cleaning guides, best upgrades, and progression strategies.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "progression": "Progression",
+    "community": "Community",
+    "maps": "Maps"
+  },
   "home": {
     "meta": {
       "title": "Wash The Skyscraper Wiki — Codes, Upgrades, Controls & Guides",
@@ -379,7 +386,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -415,5 +421,29 @@
     "buildGuide": "Cleaning Tips",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Wash The Skyscraper Guides & Walkthroughs",
+    "overviewDescription": "Complete beginner guides, step-by-step walkthroughs, and essential tips for Wash The Skyscraper players."
+  },
+  "mechanics": {
+    "overviewTitle": "Wash The Skyscraper Mechanics & Tools",
+    "overviewDescription": "Comprehensive breakdown of window washing systems, squeegees, floor types, and cleaning tools in Wash The Skyscraper."
+  },
+  "controls": {
+    "overviewTitle": "Wash The Skyscraper Controls & Keybinds",
+    "overviewDescription": "Full control guides for PC keyboard, mouse, console, and mobile touch inputs in Wash The Skyscraper."
+  },
+  "progression": {
+    "overviewTitle": "Wash The Skyscraper Progression & Upgrades",
+    "overviewDescription": "Upgrade paths, unlockable equipment, floor level requirements, and milestone rewards in Wash The Skyscraper."
+  },
+  "community": {
+    "overviewTitle": "Wash The Skyscraper Codes & Community",
+    "overviewDescription": "Active promo codes, latest game update notes, Discord links, and community news for Wash The Skyscraper."
+  },
+  "maps": {
+    "overviewTitle": "Wash The Skyscraper Maps & Locations",
+    "overviewDescription": "Interactive skyscraper maps, secret zones, badge locations, and special event areas in Wash The Skyscraper."
   }
 }
