@@ -22,10 +22,10 @@ export const siteConfig: SiteConfig = {
   name: "Wash The Skyscraper Wiki",
   shortName: "Wash The Skyscraper",
   logoText: "WS",
-  tagline: "Complete Guides, Codes, Upgrades & Tips",
+  tagline: "Cleaning Guides, Codes, Upgrades & Tips",
   description: "Your ultimate guide to Wash The Skyscraper on Roblox! Explore active codes, cleaning guides, best upgrades, and progression strategies.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://washtheskyscraper.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://washtheskyscraper.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@washtheskyscraper.top",
   gameUrl: "https://www.roblox.com/games/88844652058629/Wash-The-Skyscraper",
   heroVideoId: "0kvMI_Vt4kQ", // Wash the Skyscraper - Roblox gameplay video
   social: {

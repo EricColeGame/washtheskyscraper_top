@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Wash The Skyscraper Wiki is an independent fan-built guide hub covering cleaning tasks, equipment upgrades, codes, and essential game knowledge for new and experienced players alike.</p>
+      <p>The layout, navigation, article cards, and detail format are designed to help players navigate the game efficiently.</p>
     </LegalPage>
   );
 }
