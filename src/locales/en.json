@@ -1,6 +1,6 @@
 {
   "site": {
-    "name": "Wash The Skyscraper Wiki",
+    "name": "washtheskyscraper Wiki",
     "shortName": "Wash The Skyscraper",
     "tagline": "Cleaning Guides, Codes, Upgrades & Tips",
     "description": "Your ultimate guide to Wash The Skyscraper on Roblox! Explore active codes, cleaning guides, best upgrades, and progression strategies.",
@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "Wash The Skyscraper Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Wash The Skyscraper guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Wash The Skyscraper Wiki — Codes, Upgrades, Controls & Guides",
+      "description": "Complete Wash The Skyscraper guide on Roblox with active codes, controls reference, cleaning mechanics, and equipment upgrades."
     },
     "hero": {
       "eyebrow": "Relaxing Skyscraper Cleaning Simulator",
@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master window cleaning from day one with our essential beginner guide covering washer and squeegee basics."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Equipment Controls",
+          "description": "Learn the core inputs for firing tools, rotating cleaning heads, and opening upgrade menus on PC and console."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Speed & Reach Upgrades",
+          "description": "Spend earned coins efficiently on cleaning speed and reach upgrades to clear skyscraper facades faster."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Wash The Skyscraper."
+          "title": "Active Codes Status",
+          "description": "Check active promo codes and reward redemption status to earn coins and speed boosts."
         }
       ]
     },
@@ -62,78 +62,48 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Equipment Controls",
+        "Upgrade Strategies",
+        "Working Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first login to mastering washer sprays and squeegee wipes.",
+          "href": "/guide/washtheskyscraper-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working promo codes and reward announcements tracked in one place.",
+          "href": "/community/washtheskyscraper-codes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Equipment Controls",
+          "description": "Official input map for PC, controller, and mobile tool actions without guesswork.",
+          "href": "/controls/washtheskyscraper-controls"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Upgrades Guide",
+          "description": "Spend your coins strategically on cleaning speed and reach to tackle higher floors.",
+          "href": "/progression/washtheskyscraper-upgrades"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Wash The Skyscraper?",
       "paragraphs": [
-        "Wash The Skyscraper is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Wash The Skyscraper is a relaxing skyscraper cleaning simulator on Roblox developed by Lazy Cleaners. Players ascend towering glass facades, spray away stubborn grime, pull smooth squeegee strokes, and earn coins to unlock faster tools and greater reach.",
+        "Whether you are coordinating with a co-op crew on 20-player servers, optimizing your facade cleaning routes, or mastering precise tool rotations, our community wiki provides comprehensive control maps, upgrade advice, and gameplay guides."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Lazy Cleaners"
         },
         {
           "label": "Platform",
@@ -141,158 +111,236 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Cleaning Simulator"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Max Players",
+          "value": "20"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Core Binds",
+          "value": "3 Actions"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Upgrades",
+          "value": "Speed & Reach"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Wash The Skyscraper Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master high-rise window cleaning on Roblox with essential progression guides, active codes, equipment binds, and upgrade strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "Wash The Skyscraper Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/Wash The Skyscraper-codes",
-          "displayType": "code-box",
+          "name": "washtheskyscraper Beginner Guide",
+          "description": "A beginner-focused guide covering the basic gameplay loop, cleaning mechanics, equipment usage, coin earning, and early progression tips. This module helps new players understand how to start cleaning efficiently and unlock upgrades faster.",
+          "href": "/guide/washtheskyscraper-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Equip your power washer and aim at the grimy facade"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Hold Click or RT for a steady spray across the surface"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Press R or X to rotate the squeegee to fit window edges"
+            },
+            {
+              "label": "4",
+              "detail": "Pull smooth squeegee passes to wipe glass streak-free"
+            },
+            {
+              "label": "5",
+              "detail": "Collect coins awarded for each cleaned pane and section"
+            },
+            {
+              "label": "6",
+              "detail": "Press U to open the upgrade shop and boost speed"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/Wash The Skyscraper-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "washtheskyscraper Upgrades Guide",
+          "description": "Explains available upgrades, how they improve cleaning speed, and how players can spend earned coins effectively. This targets searches related to progression, faster cleaning, and upgrade strategies.",
+          "href": "/progression/washtheskyscraper-upgrades",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Cleaning Speed — drastically cuts down wipe time per pane"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Tool Reach — clean distant corners without extra repositioning"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Spray Width — broadens washer coverage for faster soaking"
+            },
+            {
+              "label": "C",
+              "detail": "Cosmetic Gear — optional tool tints and vanity items"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/guide",
-          "displayType": "tier-grid",
+          "name": "washtheskyscraper Codes",
+          "description": "A dedicated codes section for tracking active and expired reward codes if the developers add a redemption system. It can also explain where official code announcements usually appear.",
+          "href": "/community/washtheskyscraper-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "code": "ACTIVE",
+              "reward": "Check official Roblox page and Discord for surprise drops"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "code": "EXPIRED",
+              "reward": "Past event promo strings verified and archived"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "code": "REDEEM",
+              "reward": "Open settings or shop menu to enter active promo codes"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "code": "BOOST",
+              "reward": "Temporary cleaning speed multipliers and coin bundles"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/Wash The Skyscraper-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "washtheskyscraper Equipment Guide",
+          "description": "Covers cleaning tools, equipment usage, and strategies for choosing the right equipment during progression. This section supports players searching for tools, washers, and cleaning methods.",
+          "href": "/mechanics/washtheskyscraper-equipment",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Washer",
+              "detail": "Power washer to spray down heavy grime and prepare glass"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Squeegee",
+              "detail": "Rubber blade tool to wipe water clean without streaks"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Rotation",
+              "detail": "Orientation toggle to align blade with vertical panes"
+            },
+            {
+              "label": "Shop",
+              "detail": "Upgrade kiosk accessed instantly via quick keybind"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/Wash The Skyscraper-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "washtheskyscraper Controls Guide",
+          "description": "Lists PC and controller controls, including equipment actions, rotation, and upgrade shortcuts. This helps players quickly learn the game input system.",
+          "href": "/controls/washtheskyscraper-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "code": "Click / RT",
+              "reward": "Use equipment to spray washer or drag squeegee"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "code": "R / X",
+              "reward": "Rotate equipment to match facade pane orientation"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "code": "U / Down",
+              "reward": "Open upgrade menu to purchase speed and reach"
+            },
+            {
+              "code": "WASD / LS",
+              "reward": "Move along building ledges and position cleaning passes"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/Wash The Skyscraper-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "washtheskyscraper Progression Guide",
+          "description": "Provides a roadmap for moving from beginner cleaner to advanced player, including earning coins, improving efficiency, and reaching higher areas of the skyscraper.",
+          "href": "/progression/washtheskyscraper-levels",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Clear ground floor facade windows to build starter coin reserves"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Invest first earnings into baseline cleaning speed upgrades"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Increase reach to comfortably cover high window panels"
+            },
+            {
+              "label": "4",
+              "detail": "Tackle higher floors with multi-pane architectural layouts"
+            },
+            {
+              "label": "5",
+              "detail": "Coordinate with co-op players to divide wash and wipe roles"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "washtheskyscraper Update Guide",
+          "description": "Tracks official updates, new features, events, and changes released by the developers. Players can use this section to understand new content after game updates.",
+          "href": "/community/washtheskyscraper-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Regular tuning for tool responsiveness and camera handling"
+            },
+            {
+              "label": "Buildings",
+              "detail": "New skyscraper architectures and complex facade designs"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Expanded progression tiers for dedicated high-rise washers"
+            },
+            {
+              "label": "Events",
+              "detail": "Seasonal cleaning challenges with bonus coin payouts"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "washtheskyscraper Community Guide",
+          "description": "Collects official community resources where players can follow announcements, join discussions, and find developer updates. This supports searches related to groups and social channels.",
+          "href": "/community/washtheskyscraper-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "Official Lazy Cleaners group page and game listing"
+            },
+            {
+              "label": "Discord",
+              "detail": "Community chat for finding co-op crews and sharing tips"
+            },
+            {
+              "label": "Wiki",
+              "detail": "Player-curated knowledge base with detailed guides"
+            },
+            {
+              "label": "Feedback",
+              "detail": "Developer suggestions channel for upcoming features"
             }
           ]
         }
@@ -304,23 +352,23 @@
       "items": [
         {
           "question": "What is Wash The Skyscraper?",
-          "answer": "Wash The Skyscraper is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Wash The Skyscraper is a casual cleaning simulation game on Roblox developed by Lazy Cleaners. Players scale towering buildings to wash dirty windows, wipe panes dry with squeegees, earn coins, and upgrade cleaning speed and reach."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What are the core controls in Wash The Skyscraper?",
+          "answer": "Wash The Skyscraper uses three simple equipment actions: Click (or RT on controller) to use equipment, R (or X) to rotate tools to match window angles, and U (or D-pad Down) to open the upgrade shop. WASD handles movement."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What upgrades should I prioritize first in Wash The Skyscraper?",
+          "answer": "Prioritize cleaning speed first to shorten pass times on large panes, followed closely by reach so you can clean entire sections without constantly repositioning your character."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Are there active codes for Wash The Skyscraper?",
+          "answer": "As of September 2026, no official promo codes have been released by Lazy Cleaners. Players earn currency directly through gameplay, and any future codes will be tracked on our Wash The Skyscraper Codes page."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Can you play Wash The Skyscraper with friends?",
+          "answer": "Yes, Wash The Skyscraper supports up to 20 players on a server. You can team up with friends to divide tasks, such as one player washing grime while another wipes panes clean."
         }
       ]
     },
