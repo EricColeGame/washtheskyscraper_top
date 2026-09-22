@@ -163,50 +163,63 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                   {/* code-cards: show active codes */}
                   {mod.displayType === "code-cards" && mod.highlights && mod.highlights.length > 0 && (
                     <div className="space-y-3">
-                      {mod.highlights.map((h, i) => (
-                        <div key={i} className="flex items-center justify-between gap-4 rounded-xl border border-border bg-muted p-4">
-                          <div className="flex items-center gap-3">
-                            <code className="rounded-lg bg-background px-3 py-1.5 font-mono text-sm font-bold text-foreground">{h.label}</code>
-                            <span className="text-sm text-muted-foreground">{h.detail}</span>
+                      {mod.highlights.map((item, i) => {
+                        const h = item as { label?: string; detail?: string; code?: string; reward?: string; badge?: string };
+                        const label = h.code ?? h.label ?? "";
+                        const detail = h.reward ?? h.detail ?? "";
+                        return (
+                          <div key={i} className="flex items-center justify-between gap-4 rounded-xl border border-border bg-muted p-4">
+                            <div className="flex items-center gap-3">
+                              <code className="rounded-lg bg-background px-3 py-1.5 font-mono text-sm font-bold text-foreground">{label}</code>
+                              <span className="text-sm text-muted-foreground">{detail}</span>
+                            </div>
+                            {typeof h.badge === "string" && <Badge className="shrink-0 bg-emerald-600 text-white text-[10px]">{h.badge}</Badge>}
                           </div>
-                          {"badge" in h && typeof h.badge === "string" && <Badge className="shrink-0 bg-emerald-600 text-white text-[10px]">{h.badge}</Badge>}
-                        </div>
-                      ))}
+                        );
+                      })}
                     </div>
                   )}
 
                   {/* step-by-step: numbered step cards */}
                   {mod.displayType === "step-by-step" && mod.highlights && mod.highlights.length > 0 && (
                     <div className="grid gap-3 sm:grid-cols-2">
-                      {mod.highlights.map((h, i) => (
-                        <div key={i} className="flex items-start gap-3">
-                          <span className="grid h-7 w-7 shrink-0 place-items-center rounded-full bg-[hsl(var(--nav-theme))] text-xs font-bold text-primary-foreground">{h.label}</span>
-                          <span className="text-sm leading-6 text-muted-foreground">{h.detail}</span>
-                        </div>
-                      ))}
+                      {mod.highlights.map((item, i) => {
+                        const h = item as { label?: string; detail?: string; code?: string; reward?: string };
+                        const label = h.label ?? h.code ?? "";
+                        const detail = h.detail ?? h.reward ?? "";
+                        return (
+                          <div key={i} className="flex items-start gap-3">
+                            <span className="grid h-7 w-7 shrink-0 place-items-center rounded-full bg-[hsl(var(--nav-theme))] text-xs font-bold text-primary-foreground">{label}</span>
+                            <span className="text-sm leading-6 text-muted-foreground">{detail}</span>
+                          </div>
+                        );
+                      })}
                     </div>
                   )}
 
                   {/* tier-grid: S/A/B/C colored cards */}
                   {mod.displayType === "tier-grid" && mod.highlights && mod.highlights.length > 0 && (
                     <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-                      {mod.highlights.map((h, i) => {
+                      {mod.highlights.map((item, i) => {
+                        const h = item as { label?: string; detail?: string; code?: string; reward?: string };
+                        const label = h.label ?? h.code ?? "";
+                        const detail = h.detail ?? h.reward ?? "";
                         const tierColor =
-                          h.label === "S" ? "border-amber-500/40 bg-amber-500/10" :
-                          h.label === "A" ? "border-emerald-500/40 bg-emerald-500/10" :
-                          h.label === "B" ? "border-blue-500/40 bg-blue-500/10" :
-                          h.label === "C" ? "border-zinc-500/40 bg-zinc-500/10" :
+                          label === "S" ? "border-amber-500/40 bg-amber-500/10" :
+                          label === "A" ? "border-emerald-500/40 bg-emerald-500/10" :
+                          label === "B" ? "border-blue-500/40 bg-blue-500/10" :
+                          label === "C" ? "border-zinc-500/40 bg-zinc-500/10" :
                           "border-border bg-muted";
                         const tierText =
-                          h.label === "S" ? "text-amber-600 dark:text-amber-400" :
-                          h.label === "A" ? "text-emerald-600 dark:text-emerald-400" :
-                          h.label === "B" ? "text-blue-600 dark:text-blue-400" :
-                          h.label === "C" ? "text-zinc-600 dark:text-zinc-400" :
+                          label === "S" ? "text-amber-600 dark:text-amber-400" :
+                          label === "A" ? "text-emerald-600 dark:text-emerald-400" :
+                          label === "B" ? "text-blue-600 dark:text-blue-400" :
+                          label === "C" ? "text-zinc-600 dark:text-zinc-400" :
                           "text-muted-foreground";
                         return (
                           <div key={i} className={`rounded-xl border p-4 ${tierColor}`}>
-                            <span className={`text-sm font-bold ${tierText}`}>{h.label} Tier</span>
-                            <p className="mt-1.5 text-xs leading-5 text-muted-foreground">{h.detail}</p>
+                            <span className={`text-sm font-bold ${tierText}`}>{label} Tier</span>
+                            <p className="mt-1.5 text-xs leading-5 text-muted-foreground">{detail}</p>
                           </div>
                         );
                       })}
@@ -216,12 +229,17 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                   {/* card-list: icon + name cards */}
                   {mod.displayType === "card-list" && mod.highlights && mod.highlights.length > 0 && (
                     <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-                      {mod.highlights.map((h, i) => (
-                        <div key={i} className="flex items-center gap-3 rounded-xl border border-border bg-muted p-3">
-                          <span className="text-xl">{h.label}</span>
-                          <span className="text-sm font-medium text-foreground">{h.detail}</span>
-                        </div>
-                      ))}
+                      {mod.highlights.map((item, i) => {
+                        const h = item as { label?: string; detail?: string; code?: string; reward?: string };
+                        const label = h.label ?? h.code ?? "";
+                        const detail = h.detail ?? h.reward ?? "";
+                        return (
+                          <div key={i} className="flex items-center gap-3 rounded-xl border border-border bg-muted p-3">
+                            <span className="text-xl">{label}</span>
+                            <span className="text-sm font-medium text-foreground">{detail}</span>
+                          </div>
+                        );
+                      })}
                     </div>
                   )}
 
