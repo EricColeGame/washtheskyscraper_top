@@ -1,1 +1,449 @@
-{}
+{
+  "site": {
+    "name": "washtheskyscraper Wiki",
+    "shortName": "Wash The Skyscraper",
+    "tagline": "Reinigungsleitfäden, Codes, Upgrades & Tipps",
+    "description": "Dein ultimativer Leitfaden für Wash The Skyscraper auf Roblox! Entdecke aktive Codes, Reinigungsanleitungen, beste Upgrades und Fortschrittsstrategien.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler erstellt."
+  },
+  "nav": {
+    "guide": "Leitfaden",
+    "mechanics": "Mechaniken",
+    "controls": "Steuerung",
+    "progression": "Fortschritt",
+    "community": "Community",
+    "maps": "Karten"
+  },
+  "home": {
+    "meta": {
+      "title": "Wash The Skyscraper Wiki — Codes, Upgrades, Steuerung & Leitfäden",
+      "description": "Vollständiger Wash The Skyscraper Leitfaden auf Roblox mit aktiven Codes, Steuerungsübersicht, Reinigungsmechaniken und Ausrüstungs-Upgrades."
+    },
+    "hero": {
+      "eyebrow": "Entspannender Wolkenkratzer-Reinigungssimulator",
+      "title": "Wash The Skyscraper Wiki",
+      "description": "Wash The Skyscraper ist eine entspannte Reinigungssimulation auf Roblox, bei der Spieler hoch aufragende Wolkenkratzer waschen, Reinigungsaufgaben abschließen, Ausrüstung verbessern und architektonische Herausforderungen meistern.",
+      "stats": [
+        "Alle Codes",
+        "Reinigungsleitfäden",
+        "Beste Upgrades",
+        "Roblox-Tipps"
+      ],
+      "primaryCta": "Leitfaden lesen",
+      "secondaryCta": "Codes ansehen",
+      "tertiaryCta": "Auf Roblox spielen",
+      "videoLabel": "Trailer ansehen"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in Wash The Skyscraper",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Leitfaden",
+          "description": "Meistere die Fensterreinigung vom ersten Tag an mit unserem unverzichtbaren Leitfaden für Hochdruckreiniger und Abzieher."
+        },
+        {
+          "number": "2",
+          "title": "Ausrüstungssteuerung",
+          "description": "Lerne die wichtigsten Tastenbelegungen zum Verwenden von Werkzeugen, Drehen von Aufsätzen und Öffnen von Upgrade-Menüs."
+        },
+        {
+          "number": "3",
+          "title": "Geschwindigkeits- & Reichweiten-Upgrades",
+          "description": "Setze verdiente Münzen gezielt für schnellere Reinigung und größere Reichweite ein, um Fassaden zügig zu säubern."
+        },
+        {
+          "number": "4",
+          "title": "Aktueller Code-Status",
+          "description": "Prüfe aktive Promo-Codes und Einlöse-Möglichkeiten für zusätzliche Münzen und temporäre Geschwindigkeits-Boosts."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Jetzt im Trend",
+      "quickLinks": [
+        "Einsteiger-Leitfaden",
+        "Ausrüstungssteuerung",
+        "Upgrade-Strategien",
+        "Aktive Codes"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Einsteiger-Leitfaden",
+          "description": "Alles, was du vom ersten Login bis zum sauberen Abziehen von Glasflächen wissen musst.",
+          "href": "/guide/washtheskyscraper-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Alle funktionierenden Promo-Codes und Belohnungsankündigungen an einem zentralen Ort.",
+          "href": "/community/washtheskyscraper-codes"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Ausrüstungssteuerung",
+          "description": "Offizielle Tastenbelegung für PC, Controller und Mobilgeräte ohne langes Raten.",
+          "href": "/controls/washtheskyscraper-controls"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Upgrade-Leitfaden",
+          "description": "Investiere Münzen strategisch in Reinigungsgeschwindigkeit und Reichweite für höhere Stockwerke.",
+          "href": "/progression/washtheskyscraper-upgrades"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Wash The Skyscraper?",
+      "paragraphs": [
+        "Wash The Skyscraper ist eine entspannte Wolkenkratzer-Reinigungssimulation auf Roblox, entwickelt von Lazy Cleaners. Spieler steigen an imposanten Glasfassaden empor, lösen hartnäckigen Schmutz mit Wasserstrahlen, ziehen Fenster streifenfrei ab und verdienen Münzen für schnellere und reichweitenstärkere Werkzeuge.",
+        "Egal, ob du dich im Koop auf 20-Spieler-Servern mit Teams koordinierst, Routen an Wolkenkratzern optimierst oder die Werkzeugdrehung perfektionierst — unser Community-Wiki bietet präzise Steuerungsübersichten, Upgrade-Tipps und Leitfäden."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Lazy Cleaners"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Reinigungssimulator"
+        },
+        {
+          "label": "Max. Spieler",
+          "value": "20"
+        },
+        {
+          "label": "Hauptaktionen",
+          "value": "3 Aktionen"
+        },
+        {
+          "label": "Upgrades",
+          "value": "Tempo & Reichweite"
+        }
+      ],
+      "cta": "Alle Seiten erkunden"
+    },
+    "explore": {
+      "title": "Wash The Skyscraper Wiki erkunden",
+      "description": "Meistere die Fensterreinigung an Wolkenkratzern auf Roblox mit Progressionsleitfäden, aktiven Codes, Steuerungsübersichten und Upgrade-Strategien.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Wash The Skyscraper Einsteiger-Leitfaden",
+          "description": "Ein anfängerfreundlicher Leitfaden zum grundlegenden Gameplay, Reinigungsmechaniken, Werkzeugeinsatz, Münzverdienst und frühen Fortschrittstipps.",
+          "href": "/guide/washtheskyscraper-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Rüste deinen Hochdruckreiniger aus und ziele auf die schmutzige Fassade"
+            },
+            {
+              "label": "2",
+              "detail": "Halte Klick oder RT gedrückt für einen konstanten Sprühstrahl"
+            },
+            {
+              "label": "3",
+              "detail": "Drücke R oder X, um den Abzieher an Fensterkanten anzupassen"
+            },
+            {
+              "label": "4",
+              "detail": "Ziehe Scheiben gleichmäßig ab für ein streifenfreies Ergebnis"
+            },
+            {
+              "label": "5",
+              "detail": "Sammle Belohnungsmünzen für jedes gereinigte Fensterelement"
+            },
+            {
+              "label": "6",
+              "detail": "Drücke U, um das Upgrade-Menü zu öffnen und Tempo zu steigern"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Wash The Skyscraper Upgrade-Leitfaden",
+          "description": "Erklärt verfügbare Upgrades, wie sie die Reinigungsgeschwindigkeit erhöhen und wie Münzen optimal eingesetzt werden.",
+          "href": "/progression/washtheskyscraper-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Reinigungsgeschwindigkeit — verkürzt die Abziehzeit pro Scheibe drastisch"
+            },
+            {
+              "label": "A",
+              "detail": "Werkzeugreichweite — erreicht entfernte Ecken ohne zusätzliche Schritte"
+            },
+            {
+              "label": "B",
+              "detail": "Sprühbreite — erweitert den Einweichbereich des Hochdruckreinigers"
+            },
+            {
+              "label": "C",
+              "detail": "Kosmetik — visuelle Farben und optionale Anpassungen"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Wash The Skyscraper Codes",
+          "description": "Übersicht über aktive und abgelaufene Promo-Codes, sobald ein entsprechendes Belohnungssystem integriert wird.",
+          "href": "/community/washtheskyscraper-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "code": "AKTIV",
+              "reward": "Offizielle Roblox-Seite und Discord nach neuen Codes prüfen"
+            },
+            {
+              "code": "ABGELAUFEN",
+              "reward": "Frühere Event-Codes geprüft und archiviert"
+            },
+            {
+              "code": "EINLÖSEN",
+              "reward": "Einstellungen oder Shop-Menü öffnen zum Eingeben von Codes"
+            },
+            {
+              "code": "BOOST",
+              "reward": "Temporäre Geschwindigkeits-Multiplikatoren und Münzpakete"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Wash The Skyscraper Ausrüstungs-Leitfaden",
+          "description": "Behandelt Reinigungswerkzeuge, Ausrüstungsnutzung und die richtige Wahl für jeden Spielabschnitt.",
+          "href": "/mechanics/washtheskyscraper-equipment",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reiniger",
+              "detail": "Hochdruckreiniger zum Lösen groben Schmutzes auf Glasflächen"
+            },
+            {
+              "label": "Abzieher",
+              "detail": "Gummilippe zum streifenfreien Abziehen des Wassers"
+            },
+            {
+              "label": "Drehung",
+              "detail": "Ausrichtungsauswahl für vertikale und horizontale Scheiben"
+            },
+            {
+              "label": "Shop",
+              "detail": "Upgrade-Kiosk direkt per Schnellwahltaste erreichbar"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Wash The Skyscraper Steuerungs-Leitfaden",
+          "description": "Übersicht aller Tastenbelegungen für PC und Controller inklusive Werkzeugaktionen, Drehungen und Upgrade-Shortcuts.",
+          "href": "/controls/washtheskyscraper-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "code": "Klick / RT",
+              "reward": "Ausrüstung verwenden zum Sprühen oder Abziehen"
+            },
+            {
+              "code": "R / X",
+              "reward": "Werkzeug an den Winkel der Fensterscheibe anpassen"
+            },
+            {
+              "code": "U / Unten",
+              "reward": "Upgrade-Menü öffnen für Geschwindigkeit und Reichweite"
+            },
+            {
+              "code": "WASD / LS",
+              "reward": "Am Fassadenrand bewegen und Reinigungsbahnen ansetzen"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Wash The Skyscraper Progressions-Leitfaden",
+          "description": "Ein Fahrplan vom Einsteiger zum Meister-Fensterputzer mit Fokus auf Effizienz, Münzeinnahmen und höhere Etagen.",
+          "href": "/progression/washtheskyscraper-levels",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Erdgeschossfenster reinigen für ein erstes Münzpolster"
+            },
+            {
+              "label": "2",
+              "detail": "Erste Einnahmen in Geschwindigkeits-Upgrades investieren"
+            },
+            {
+              "label": "3",
+              "detail": "Reichweite steigern, um hohe Glasfronten mühelos zu putzen"
+            },
+            {
+              "label": "4",
+              "detail": "Höhere Etagen mit komplexen architektonischen Mustern angehen"
+            },
+            {
+              "label": "5",
+              "detail": "Im Koop Rollen zwischen Waschen und Abziehen aufteilen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Wash The Skyscraper Update-Leitfaden",
+          "description": "Verfolgt offizielle Spielupdates, neue Features, Events und Änderungen der Entwickler im Detail.",
+          "href": "/community/washtheskyscraper-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Regelmäßige Anpassungen an Werkzeugreaktion und Kamerasteuerung"
+            },
+            {
+              "label": "Gebäude",
+              "detail": "Neue Wolkenkratzer-Architekturen und anspruchsvolle Fassaden"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Erweiterte Progressionsstufen für engagierte Gebäudereiniger"
+            },
+            {
+              "label": "Events",
+              "detail": "Saisonale Reinigungs-Challenges mit zusätzlichen Münzbelohnungen"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Wash The Skyscraper Community-Leitfaden",
+          "description": "Offizielle Anlaufstellen, Diskussionsforen und Ankündigungen rund um das Spiel und die Entwickler.",
+          "href": "/community/washtheskyscraper-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "Offizielle Seite der Gruppe Lazy Cleaners und des Spiels"
+            },
+            {
+              "label": "Discord",
+              "detail": "Community-Chat zur Teamsuche und zum Austausch von Tipps"
+            },
+            {
+              "label": "Wiki",
+              "detail": "Von Spielern gepflegte Wissensdatenbank mit genauen Guides"
+            },
+            {
+              "label": "Feedback",
+              "detail": "Vorschlagskanal für neue Funktionen direkt an das Team"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die wichtigsten Fragen zu Wash The Skyscraper.",
+      "items": [
+        {
+          "question": "Was ist Wash The Skyscraper?",
+          "answer": "Wash The Skyscraper ist eine entspannende Reinigungssimulation auf Roblox von Lazy Cleaners. Spieler säubern Fenster an riesigen Wolkenkratzern, nutzen Abzieher, verdienen Münzen und verbessern Tempo sowie Reichweite."
+        },
+        {
+          "question": "Welche Tastenbelegungen sind am wichtigsten in Wash The Skyscraper?",
+          "answer": "Wash The Skyscraper nutzt drei Hauptaktionen: Klick (oder RT am Controller) zum Werkzeugeinsatz, R (oder X) zum Drehen des Werkzeugs passend zum Fensterwinkel und U (oder Steuerkreuz unten) für das Upgrade-Menü. WASD steuert die Bewegung."
+        },
+        {
+          "question": "Welche Upgrades sollte man in Wash The Skyscraper zuerst kaufen?",
+          "answer": "Priorisiere zuerst die Reinigungsgeschwindigkeit, um Fenster schneller abziehen zu können, gefolgt von Reichweite, damit du ganze Abschnitte ohne ständiges Bewegen erreichst."
+        },
+        {
+          "question": "Gibt es aktive Codes für Wash The Skyscraper?",
+          "answer": "Bis September 2026 wurden von Lazy Cleaners noch keine Promo-Codes veröffentlicht. Münzen werden durchs Spielen verdient, und künftige Codes listen wir auf unserer Codes-Seite."
+        },
+        {
+          "question": "Kann man Wash The Skyscraper mit Freunden spielen?",
+          "answer": "Ja, Wash The Skyscraper unterstützt bis zu 20 Spieler pro Server. Ihr könnt euch im Team absprechen, sodass ein Spieler Schmutz einweicht und der andere Scheiben abzieht."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Wash The Skyscraper zu meistern?",
+      "description": "Vom ersten Fenster bis hin zu Profi-Ausrüstung — unser Community-Wiki begleitet dich mit kostenlosen, aktuellen Leitfäden.",
+      "primary": "Einsteiger-Leitfaden lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Bereich",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Passende Artikel",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Wash The Skyscraper Wiki",
+    "about": "Wash The Skyscraper Wiki ist eine unabhängige, von Fans erstellte Plattform für Reinigungsaufgaben, Upgrades, Codes und Spielwissen für Einsteiger und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Wash The Skyscraper Wiki. Nicht mit Roblox oder den Spieleentwicklern verbunden.",
+    "description": "Entspannte Wolkenkratzer-Reinigungssimulation auf Roblox. Verbessere Ausrüstung, putze Hochhäuser und meistere entspannte Aufgaben.",
+    "playGame": "Wash The Skyscraper spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizieller YouTube-Kanal",
+    "vvBuilder": "Ausrüstungs-Upgrades",
+    "beginnerGuide": "Einsteiger-Leitfaden",
+    "raceGuides": "Upgrades",
+    "bossGuides": "Gebäude",
+    "buildGuide": "Reinigungstipps",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "guide": {
+    "overviewTitle": "Wash The Skyscraper Leitfäden & Walkthroughs",
+    "overviewDescription": "Vollständige Einsteiger-Leitfäden, Schritt-für-Schritt-Anleitungen und wichtige Tipps für Wash The Skyscraper."
+  },
+  "mechanics": {
+    "overviewTitle": "Wash The Skyscraper Mechaniken & Werkzeuge",
+    "overviewDescription": "Detaillierte Übersicht über Fensterwaschsysteme, Abzieher, Stockwerktypen und Reinigungswerkzeuge in Wash The Skyscraper."
+  },
+  "controls": {
+    "overviewTitle": "Wash The Skyscraper Steuerung & Tastenbelegung",
+    "overviewDescription": "Vollständige Steuerungsübersichten für PC Tastatur/Maus, Controller und Mobilgeräte in Wash The Skyscraper."
+  },
+  "progression": {
+    "overviewTitle": "Wash The Skyscraper Fortschritt & Upgrades",
+    "overviewDescription": "Upgrade-Pfade, freischaltbare Ausrüstung, Etagen-Anforderungen und Meilenstein-Belohnungen in Wash The Skyscraper."
+  },
+  "community": {
+    "overviewTitle": "Wash The Skyscraper Codes & Community",
+    "overviewDescription": "Aktive Promo-Codes, Update-Hinweise, Discord-Links und Neuigkeiten der Community zu Wash The Skyscraper."
+  },
+  "maps": {
+    "overviewTitle": "Wash The Skyscraper Karten & Standorte",
+    "overviewDescription": "Interaktive Wolkenkratzer-Karten, geheime Bereiche, Abzeichen-Orte und spezielle Eventzonen in Wash The Skyscraper."
+  }
+}

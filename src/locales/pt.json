@@ -1,1 +1,449 @@
-{}
+{
+  "site": {
+    "name": "washtheskyscraper Wiki",
+    "shortName": "Wash The Skyscraper",
+    "tagline": "Guias de Limpeza, Códigos, Melhorias e Dicas",
+    "description": "Seu guia definitivo para Wash The Skyscraper no Roblox! Explore códigos ativos, guias de limpeza, melhores melhorias e estratégias de progressão.",
+    "legalNotice": "Wiki de fãs não oficial. Feito por jogadores, para jogadores."
+  },
+  "nav": {
+    "guide": "Guia",
+    "mechanics": "Mecânicas",
+    "controls": "Controles",
+    "progression": "Progressão",
+    "community": "Comunidade",
+    "maps": "Mapas"
+  },
+  "home": {
+    "meta": {
+      "title": "Wash The Skyscraper Wiki — Códigos, Melhorias, Controles e Guias",
+      "description": "Guia completo de Wash The Skyscraper no Roblox com códigos ativos, referência de controles, mecânicas de limpeza e melhorias de equipamentos."
+    },
+    "hero": {
+      "eyebrow": "Simulador Relaxante de Limpeza de Arranha-céus",
+      "title": "Wash The Skyscraper Wiki",
+      "description": "Wash The Skyscraper é um jogo casual de simulação de limpeza onde os jogadores lavam arranha-céus imponentes, concluem tarefas de limpeza, melhoram equipamentos e progridem em desafios relaxantes de edifícios.",
+      "stats": [
+        "Todos os Códigos",
+        "Guias de Limpeza",
+        "Melhores Melhorias",
+        "Dicas de Roblox"
+      ],
+      "primaryCta": "Ler o Guia",
+      "secondaryCta": "Ver Códigos",
+      "tertiaryCta": "Jogar no Roblox",
+      "videoLabel": "Assistir Trailer"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Navegar por Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Wash The Skyscraper",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Domine a limpeza de janelas desde o primeiro dia com nosso guia essencial para iniciantes cobrindo o básico da lavadora e do rodo."
+        },
+        {
+          "number": "2",
+          "title": "Controles de Equipamento",
+          "description": "Aprenda os comandos principais para acionar ferramentas, girar ponteiras de limpeza e abrir menus de melhoria no PC e console."
+        },
+        {
+          "number": "3",
+          "title": "Melhorias de Velocidade e Alcance",
+          "description": "Gaste moedas ganhas com eficiência em melhorias de velocidade de limpeza e alcance para limpar fachadas de arranha-céus mais rápido."
+        },
+        {
+          "number": "4",
+          "title": "Status de Códigos Ativos",
+          "description": "Confira os códigos promocionais ativos e o status de resgate de recompensas para ganhar moedas e bônus de velocidade."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta Agora",
+      "quickLinks": [
+        "Guia para Iniciantes",
+        "Controles de Equipamento",
+        "Estratégias de Melhoria",
+        "Códigos Ativos"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Tudo o que você precisa desde o primeiro login até dominar os jatos da lavadora e os movimentos do rodo.",
+          "href": "/guide/washtheskyscraper-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Todos os códigos promocionais válidos e avisos de recompensas reunidos em um só lugar.",
+          "href": "/community/washtheskyscraper-codes"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Controles de Equipamento",
+          "description": "Mapeamento oficial de comandos para PC, controle e ações de ferramentas móveis sem adivinhação.",
+          "href": "/controls/washtheskyscraper-controls"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de Melhorias",
+          "description": "Gaste suas moedas estrategicamente em velocidade de limpeza e alcance para encarar andares mais altos.",
+          "href": "/progression/washtheskyscraper-upgrades"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Wash The Skyscraper?",
+      "paragraphs": [
+        "Wash The Skyscraper é um relaxante simulador de limpeza de arranha-céus no Roblox desenvolvido por Lazy Cleaners. Os jogadores sobem fachadas imponentes de vidro, removem sujeiras difíceis com jatos d'água, passam o rodo com precisão e ganham moedas para desbloquear ferramentas mais rápidas e com maior alcance.",
+        "Seja coordenando com uma equipe cooperativa em servidores de 20 jogadores, otimizando suas rotas de limpeza de fachada ou dominando rotações precisas de ferramentas, nossa wiki comunitária oferece mapas completos de controles, conselhos sobre melhorias e guias de jogabilidade."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Lazy Cleaners"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Simulador de Limpeza"
+        },
+        {
+          "label": "Máx. Jogadores",
+          "value": "20"
+        },
+        {
+          "label": "Comandos Principais",
+          "value": "3 Ações"
+        },
+        {
+          "label": "Melhorias",
+          "value": "Velocidade e Alcance"
+        }
+      ],
+      "cta": "Explorar Todas as Páginas"
+    },
+    "explore": {
+      "title": "Explorar Wash The Skyscraper Wiki",
+      "description": "Domine a limpeza de janelas em arranha-céus no Roblox com guias essenciais de progressão, códigos ativos, controles de equipamento e estratégias de melhoria.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para Iniciantes em Wash The Skyscraper",
+          "description": "Um guia focado em novatos cobrindo o ciclo básico de jogo, mecânicas de limpeza, uso de equipamentos, ganho de moedas e dicas iniciais de progressão. Este módulo ajuda novos jogadores a limparem com eficiência e liberarem melhorias mais rápido.",
+          "href": "/guide/washtheskyscraper-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Equipe sua lavadora de alta pressão e mire na fachada suja"
+            },
+            {
+              "label": "2",
+              "detail": "Segure Clique ou RT para um jato contínuo sobre a superfície"
+            },
+            {
+              "label": "3",
+              "detail": "Pressione R ou X para girar o rodo e ajustar às bordas da janela"
+            },
+            {
+              "label": "4",
+              "detail": "Passe o rodo suavemente para limpar o vidro sem deixar manchas"
+            },
+            {
+              "label": "5",
+              "detail": "Colete moedas concedidas por cada vidro e seção limpa"
+            },
+            {
+              "label": "6",
+              "detail": "Pressione U para abrir a loja de melhorias e aumentar a velocidade"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia de Melhorias em Wash The Skyscraper",
+          "description": "Explica as melhorias disponíveis, como aumentam a velocidade de limpeza e como gastar moedas de forma eficaz. Focado em buscas sobre progressão, limpeza mais rápida e estratégias de upgrade.",
+          "href": "/progression/washtheskyscraper-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Velocidade de Limpeza — reduz drasticamente o tempo de passada por vidro"
+            },
+            {
+              "label": "A",
+              "detail": "Alcance da Ferramenta — limpe cantos distantes sem precisar se reposicionar"
+            },
+            {
+              "label": "B",
+              "detail": "Largura do Jato — amplia a cobertura da lavadora para molhar mais rápido"
+            },
+            {
+              "label": "C",
+              "detail": "Equipamentos Cosméticos — cores personalizadas e itens visuais opcionais"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Códigos de Wash The Skyscraper",
+          "description": "Seção dedicada para rastrear códigos de recompensa ativos e expirados caso os desenvolvedores adicionem um sistema de resgate. Explica onde anúncios oficiais costumam aparecer.",
+          "href": "/community/washtheskyscraper-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "code": "ATIVO",
+              "reward": "Confira a página oficial no Roblox e o Discord para novidades"
+            },
+            {
+              "code": "EXPIRADO",
+              "reward": "Códigos promocionais de eventos anteriores verificados e arquivados"
+            },
+            {
+              "code": "RESGATAR",
+              "reward": "Abra as configurações ou menu da loja para inserir códigos"
+            },
+            {
+              "code": "BÔNUS",
+              "reward": "Multiplicadores temporários de velocidade e pacotes de moedas"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de Equipamentos em Wash The Skyscraper",
+          "description": "Cobre ferramentas de limpeza, uso de equipamentos e estratégias para escolher o item certo durante a progressão. Ajuda quem procura por ferramentas, lavadoras e métodos de limpeza.",
+          "href": "/mechanics/washtheskyscraper-equipment",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lavadora",
+              "detail": "Lavadora de alta pressão para remover sujeira pesada e preparar o vidro"
+            },
+            {
+              "label": "Rodo",
+              "detail": "Lâmina de borracha para remover a água sem deixar manchas"
+            },
+            {
+              "label": "Rotação",
+              "detail": "Alternância de orientação para alinhar a lâmina a painéis verticais"
+            },
+            {
+              "label": "Loja",
+              "detail": "Quiosque de melhorias acessado instantaneamente por atalho rápido"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de Controles em Wash The Skyscraper",
+          "description": "Lista controles para PC e controle, incluindo ações de ferramentas, rotação e atalhos de upgrade. Ajuda novatos a aprenderem o sistema de comandos rapidamente.",
+          "href": "/controls/washtheskyscraper-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "code": "Clique / RT",
+              "reward": "Usar equipamento para acionar lavadora ou passar o rodo"
+            },
+            {
+              "code": "R / X",
+              "reward": "Girar equipamento para ajustar à orientação do vidro"
+            },
+            {
+              "code": "U / Baixo",
+              "reward": "Abrir menu de melhorias para comprar velocidade e alcance"
+            },
+            {
+              "code": "WASD / LS",
+              "reward": "Mover-se pelas bordas do edifício e posicionar passadas"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de Progressão em Wash The Skyscraper",
+          "description": "Oferece um roteiro para evoluir de limpador iniciante a jogador avançado, incluindo ganho de moedas, eficiência aprimorada e alcance de áreas mais altas do arranha-céu.",
+          "href": "/progression/washtheskyscraper-levels",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Limpe janelas térreas para criar sua reserva inicial de moedas"
+            },
+            {
+              "label": "2",
+              "detail": "Invista os primeiros ganhos em melhorias básicas de velocidade"
+            },
+            {
+              "label": "3",
+              "detail": "Aumente o alcance para cobrir confortavelmente janelas altas"
+            },
+            {
+              "label": "4",
+              "detail": "Encare andares superiores com designs arquitetônicos complexos"
+            },
+            {
+              "label": "5",
+              "detail": "Coordene com jogadores em co-op para dividir funções de lavar e secar"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guia de Atualizações em Wash The Skyscraper",
+          "description": "Acompanha atualizações oficiais, novos recursos, eventos e mudanças lançadas pelos desenvolvedores. Jogadores usam esta seção para entender novos conteúdos.",
+          "href": "/community/washtheskyscraper-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Ajustes regulares de resposta de ferramentas e controle de câmera"
+            },
+            {
+              "label": "Edifícios",
+              "detail": "Novas arquiteturas de arranha-céus e designs de fachada desafiadores"
+            },
+            {
+              "label": "Melhorias",
+              "detail": "Níveis de progressão expandidos para limpadores dedicados"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Desafios sazonais de limpeza com recompensas extras em moedas"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guia da Comunidade em Wash The Skyscraper",
+          "description": "Reúne recursos oficiais da comunidade onde jogadores podem acompanhar avisos, participar de conversas e ver novidades dos desenvolvedores.",
+          "href": "/community/washtheskyscraper-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "Página oficial do grupo Lazy Cleaners e lista do jogo"
+            },
+            {
+              "label": "Discord",
+              "detail": "Bate-papo da comunidade para encontrar equipes e trocar dicas"
+            },
+            {
+              "label": "Wiki",
+              "detail": "Base de conhecimento mantida por jogadores com guias detalhados"
+            },
+            {
+              "label": "Feedback",
+              "detail": "Canal de sugestões para os desenvolvedores sobre futuros recursos"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre Wash The Skyscraper.",
+      "items": [
+        {
+          "question": "O que é Wash The Skyscraper?",
+          "answer": "Wash The Skyscraper é um jogo casual de simulação de limpeza no Roblox desenvolvido por Lazy Cleaners. Os jogadores escalam edifícios imponentes para lavar janelas sujas, secar vidros com rodos, ganhar moedas e melhorar velocidade e alcance."
+        },
+        {
+          "question": "Quais são os controles principais em Wash The Skyscraper?",
+          "answer": "Wash The Skyscraper utiliza três ações básicas de equipamento: Clique (ou RT no controle) para usar o equipamento, R (ou X) para girar ferramentas de acordo com o ângulo da janela e U (ou D-pad para baixo) para abrir a loja de melhorias. WASD controla a movimentação."
+        },
+        {
+          "question": "Quais melhorias devo priorizar primeiro em Wash The Skyscraper?",
+          "answer": "Priorize a velocidade de limpeza primeiro para encurtar o tempo de passada em vidros grandes, seguida de perto pelo alcance para poder limpar seções inteiras sem precisar reposicionar constantemente seu personagem."
+        },
+        {
+          "question": "Existem códigos ativos para Wash The Skyscraper?",
+          "answer": "Até setembro de 2026, nenhum código promocional oficial foi lançado por Lazy Cleaners. Os jogadores ganham moedas diretamente jogando, e quaisquer códigos futuros serão registrados na nossa página de Códigos de Wash The Skyscraper."
+        },
+        {
+          "question": "É possível jogar Wash The Skyscraper com amigos?",
+          "answer": "Sim, Wash The Skyscraper suporta até 20 jogadores por servidor. Você pode formar equipes com amigos para dividir tarefas, como um jogador lavando a sujeira enquanto o outro passa o rodo."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Wash The Skyscraper?",
+      "description": "Da sua primeira tarefa de limpeza de janelas às melhorias de equipamento de ponta, nossa wiki comunitária oferece guias gratuitos e sempre atualizados.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leituras Relacionadas",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wash The Skyscraper Wiki",
+    "about": "Wash The Skyscraper Wiki é uma central de guias independente criada por fãs que aborda tarefas de limpeza, melhorias de equipamentos, códigos e conhecimentos essenciais de jogabilidade para novatos e veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Wash The Skyscraper Wiki. Não afiliado ao Roblox ou aos desenvolvedores do jogo.",
+    "description": "Simulador casual de limpeza de arranha-céus no Roblox. Melhore equipamentos, limpe arranha-céus e avance em desafios relaxantes.",
+    "playGame": "Jogar Wash The Skyscraper",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Melhorias de Equipamento",
+    "beginnerGuide": "Guia para Iniciantes",
+    "raceGuides": "Melhorias",
+    "bossGuides": "Edifícios",
+    "buildGuide": "Dicas de Limpeza",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  },
+  "guide": {
+    "overviewTitle": "Guias e Passo a Passo de Wash The Skyscraper",
+    "overviewDescription": "Guias completos para iniciantes, tutoriais passo a passo e dicas essenciais para jogadores de Wash The Skyscraper."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas e Ferramentas de Wash The Skyscraper",
+    "overviewDescription": "Detalhamento abrangente de sistemas de lavagem de janelas, rodos, tipos de andares e ferramentas de limpeza em Wash The Skyscraper."
+  },
+  "controls": {
+    "overviewTitle": "Controles e Teclas de Wash The Skyscraper",
+    "overviewDescription": "Guias completos de controles para teclado e mouse no PC, controle e toque em dispositivos móveis no Wash The Skyscraper."
+  },
+  "progression": {
+    "overviewTitle": "Progressão e Melhorias em Wash The Skyscraper",
+    "overviewDescription": "Caminhos de melhoria, equipamentos desbloqueáveis, requisitos de nível de andar e recompensas de marcos no Wash The Skyscraper."
+  },
+  "community": {
+    "overviewTitle": "Códigos e Comunidade de Wash The Skyscraper",
+    "overviewDescription": "Códigos promocionais ativos, notas das últimas atualizações, links do Discord e notícias da comunidade para Wash The Skyscraper."
+  },
+  "maps": {
+    "overviewTitle": "Mapas e Locais de Wash The Skyscraper",
+    "overviewDescription": "Mapas interativos de arranha-céus, zonas secretas, locais de emblemas e áreas de eventos especiais em Wash The Skyscraper."
+  }
+}
